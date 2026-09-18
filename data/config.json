@@ -1,0 +1,24 @@
+{
+  "app_name": "SarkariGK",
+  "app_tagline": "दैनिक करेंट अफेयर्स व जीके क्विज",
+  "version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "force_update": false,
+  "update_message_hi": "कृपया ऐप का नवीनतम संस्करण गूगल प्ले स्टोर से अपडेट करें।",
+  "update_message_en": "Please update to the latest version of the app from Google Play Store.",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.sarkarigk.app",
+  "monetization": {
+    "show_ads": false,
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_frequency_quizzes": 1,
+    "native_ad_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "community": {
+    "telegram_url": "https://t.me/SarkariGK_Official",
+    "telegram_banner_text_hi": "📢 मुफ्त परीक्षा अलर्ट और मासिक PDF के लिए हमारे टेलीग्राम से जुड़ें",
+    "telegram_banner_text_en": "📢 Join our Official Telegram for Free Job Alerts & Monthly Revision PDFs",
+    "monthly_pdf_url": "https://cosmofeed.com/vp/sarkarigk-monthly",
+    "pdf_price_inr": "₹19"
+  }
+}

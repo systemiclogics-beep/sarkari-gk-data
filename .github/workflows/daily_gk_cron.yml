@@ -1,0 +1,45 @@
+name: Daily GK Automated Pipeline
+
+on:
+  schedule:
+    # Runs at 20:30 UTC daily (= 02:00 AM Indian Standard Time)
+    - cron: '30 20 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  build-and-deploy-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+
+      - name: Generate Daily SarkariGK Feed
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/generate_daily_gk.py
+
+      - name: Commit and Push Updated Data to CDN
+        run: |
+          git config --global user.name "SarkariGK Bot"
+          git config --global user.email "bot@sarkarigk.app"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No new updates to commit."
+          else
+            git commit -m "[Auto] Daily GK Feed - $(date +'%Y-%m-%d')"
+            git push
+          fi

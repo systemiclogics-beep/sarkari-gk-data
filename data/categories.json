@@ -1,0 +1,50 @@
+[
+  {
+    "id": "national",
+    "name_en": "National & Schemes",
+    "name_hi": "राष्ट्रीय व योजनाएं",
+    "icon": "flag"
+  },
+  {
+    "id": "international",
+    "name_en": "International & Summits",
+    "name_hi": "अंतर्राष्ट्रीय व शिखर सम्मेलन",
+    "icon": "public"
+  },
+  {
+    "id": "defence",
+    "name_en": "Defence & Security",
+    "name_hi": "रक्षा व सुरक्षा",
+    "icon": "shield"
+  },
+  {
+    "id": "economy",
+    "name_en": "Economy & Banking",
+    "name_hi": "अर्थव्यवस्था व बैंकिंग",
+    "icon": "account_balance"
+  },
+  {
+    "id": "science",
+    "name_en": "Science & Technology",
+    "name_hi": "विज्ञान व प्रौद्योगिकी",
+    "icon": "rocket_launch"
+  },
+  {
+    "id": "appointments",
+    "name_en": "Appointments & Persons",
+    "name_hi": "नियुक्तियां व चर्चित व्यक्ति",
+    "icon": "person_pin"
+  },
+  {
+    "id": "sports",
+    "name_en": "Sports & Awards",
+    "name_hi": "खेलकूद व पुरस्कार",
+    "icon": "emoji_events"
+  },
+  {
+    "id": "environment",
+    "name_en": "Environment & Ecology",
+    "name_hi": "पर्यावरण व जैव विविधता",
+    "icon": "eco"
+  }
+]
