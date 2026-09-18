@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-17",
+  "title_en": "Daily Current Affairs & GK Dose - 2026-09-17",
+  "title_hi": "दैनिक करेंट अफेयर्स व सामान्य ज्ञान - 2026-09-17",
+  "total_questions": 10,
+  "total_one_liners": 7,
+  "questions": [
+    {
+      "id": "gk_2026_09_17_01",
+      "category": "defence",
+      "exam_tags": [
+        "SSC CGL",
+        "NDA",
+        "CDS"
+      ],
+      "question_en": "India and which country conducted the 14th edition of joint military exercise 'Vajra Prahar'?",
+      "question_hi": "भारत और किस देश के बीच संयुक्त सैन्य अभ्यास 'वज्र प्रहार' का 14वां संस्करण आयोजित किया गया?",
+      "options_en": [
+        "A) France",
+        "B) United States",
+        "C) United Kingdom",
+        "D) Japan"
+      ],
+      "options_hi": [
+        "A) फ्रांस",
+        "B) संयुक्त राज्य अमेरिका",
+        "C) यूनाइटेड किंगडम",
+        "D) जापान"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "Exercise Vajra Prahar is a joint special forces exercise conducted between the Indian Army and the US Army Special Forces to share best practices in counter-terrorism.",
+      "explanation_hi": "अभ्यास वज्र प्रहार भारतीय सेना और अमेरिकी सेना के विशेष बलों के बीच आतंकवाद विरोधी अभियानों में अनुभवों को साझा करने के लिए आयोजित किया जाने वाला संयुक्त विशेष बल अभ्यास है।"
+    },
+    {
+      "id": "gk_2026_09_17_02",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "SSC CGL",
+        "UPSC Prelims"
+      ],
+      "question_en": "Which regulatory body recently launched the 'Sachet' portal to curb unauthorized collection of deposits by fraudulent entities?",
+      "question_hi": "धोखाधड़ी वाली संस्थाओं द्वारा अनधिकृत जमा संग्रहण पर अंकुश लगाने के लिए किस नियामक संस्था ने 'सचेत' पोर्टल शुरू किया?",
+      "options_en": [
+        "A) SEBI",
+        "B) Reserve Bank of India",
+        "C) IRDAI",
+        "D) PFRDA"
+      ],
+      "options_hi": [
+        "A) सेबी",
+        "B) भारतीय रिजर्व बैंक",
+        "C) इरडा",
+        "D) पीएफआरडीए"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The Reserve Bank of India (RBI) launched the 'Sachet' portal to help citizens report unauthorized financial schemes and verify registered NBFCs.",
+      "explanation_hi": "भारतीय रिजर्व बैंक (RBI) ने नागरिकों को अनधिकृत वित्तीय योजनाओं की रिपोर्ट करने और पंजीकृत एनबीएफसी को सत्यापित करने के लिए 'सचेत' पोर्टल लॉन्च किया।"
+    },
+    {
+      "id": "gk_2026_09_17_03",
+      "category": "science",
+      "exam_tags": [
+        "UPSC Prelims",
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "What is the name of India's first indigenous reusable launch vehicle developed by ISRO?",
+      "question_hi": "इसरो (ISRO) द्वारा विकसित भारत के पहले स्वदेशी पुन: प्रयोज्य प्रक्षेपण यान का नाम क्या है?",
+      "options_en": [
+        "A) RLV-TD",
+        "B) GSLV-MK3",
+        "C) PSLV-C55",
+        "D) Pushpak RLV"
+      ],
+      "options_hi": [
+        "A) आरएलवी-टीडी",
+        "B) जीएसएलवी-एमके3",
+        "C) पीएसएलवी-सी55",
+        "D) पुष्पक आरएलवी"
+      ],
+      "correct_answer": "D",
+      "explanation_en": "ISRO successfully tested the Landing Experiment of 'Pushpak', India's winged Reusable Launch Vehicle (RLV), designed for low-cost access to space.",
+      "explanation_hi": "इसरो ने अंतरिक्ष तक कम लागत में पहुंच सुनिश्चित करने के लिए डिज़ाइन किए गए भारत के पंखों वाले पुन: प्रयोज्य प्रक्षेपण यान (RLV) 'पुष्पक' का सफल लैंडिंग प्रयोग किया।"
+    },
+    {
+      "id": "gk_2026_09_17_04",
+      "category": "appointments",
+      "exam_tags": [
+        "SSC CGL",
+        "Banking",
+        "State Police"
+      ],
+      "question_en": "Who has been appointed as the Chief Election Commissioner of India?",
+      "question_hi": "भारत के मुख्य चुनाव आयुक्त के रूप में किसे नियुक्त किया गया है?",
+      "options_en": [
+        "A) Rajiv Kumar",
+        "B) Gyanesh Kumar",
+        "C) Sukhbir Singh Sandhu",
+        "D) Arun Goel"
+      ],
+      "options_hi": [
+        "A) राजीव कुमार",
+        "B) ज्ञानेश कुमार",
+        "C) सुखबीर सिंह संधू",
+        "D) अरुण गोयल"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "The Election Commission of India operates under Article 324 of the Constitution. Rajiv Kumar serves as the 25th Chief Election Commissioner of India.",
+      "explanation_hi": "भारत निर्वाचन आयोग संविधान के अनुच्छेद 324 के तहत कार्य करता है। राजीव कुमार भारत के 25वें मुख्य चुनाव आयुक्त के रूप में कार्यरत हैं।"
+    },
+    {
+      "id": "gk_2026_09_17_05",
+      "category": "sports",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC",
+        "State Police"
+      ],
+      "question_en": "Who won the men's singles title at the 2026 US Open Tennis Championship?",
+      "question_hi": "2026 यूएस ओपन टेनिस चैंपियनशिप में पुरुष एकल का खिताब किसने जीता?",
+      "options_en": [
+        "A) Carlos Alcaraz",
+        "B) Jannik Sinner",
+        "C) Novak Djokovic",
+        "D) Daniil Medvedev"
+      ],
+      "options_hi": [
+        "A) कार्लोस अल्काराज",
+        "B) यानिक सिनर",
+        "C) नोवाक जोकोविच",
+        "D) डेनियल मेदवेदेव"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "Jannik Sinner clinched the US Open title, demonstrating dominance on hard courts with an impressive Grand Slam performance.",
+      "explanation_hi": "यानिक सिनर ने हार्ड कोर्ट पर उत्कृष्ट ग्रैंड स्लैम प्रदर्शन के साथ यूएस ओपन का पुरुष एकल खिताब अपने नाम किया।"
+    },
+    {
+      "id": "gk_2026_09_17_06",
+      "category": "national",
+      "exam_tags": [
+        "UPSC Prelims",
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "Which state recently launched the 'Mukhyamantri Mahila Samman Yojana' providing financial aid to adult women?",
+      "question_hi": "किस राज्य/केंद्र शासित प्रदेश ने वयस्क महिलाओं को वित्तीय सहायता प्रदान करने वाली 'मुख्यमंत्री महिला सम्मान योजना' शुरू की?",
+      "options_en": [
+        "A) Delhi",
+        "B) Uttar Pradesh",
+        "C) Madhya Pradesh",
+        "D) Rajasthan"
+      ],
+      "options_hi": [
+        "A) दिल्ली",
+        "B) उत्तर प्रदेश",
+        "C) मध्य प्रदेश",
+        "D) राजस्थान"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Delhi government launched the Mukhyamantri Mahila Samman Yojana to provide monthly direct benefit assistance to eligible women aged 18 and above.",
+      "explanation_hi": "दिल्ली सरकार ने 18 वर्ष और उससे अधिक आयु की पात्र महिलाओं को मासिक प्रत्यक्ष लाभ सहायता प्रदान करने के लिए मुख्यमंत्री महिला सम्मान योजना शुरू की।"
+    },
+    {
+      "id": "gk_2026_09_17_07",
+      "category": "international",
+      "exam_tags": [
+        "SSC CGL",
+        "UPSC Prelims"
+      ],
+      "question_en": "Which country hosted the G20 Leaders' Summit in 2026?",
+      "question_hi": "वर्ष 2026 में जी20 (G20) नेताओं के शिखर सम्मेलन की मेजबानी किस देश ने की?",
+      "options_en": [
+        "A) South Africa",
+        "B) United States",
+        "C) Brazil",
+        "D) Australia"
+      ],
+      "options_hi": [
+        "A) दक्षिण अफ्रीका",
+        "B) संयुक्त राज्य अमेरिका",
+        "C) ब्राजील",
+        "D) ऑस्ट्रेलिया"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The United States hosts the G20 Summit in 2026 following South Africa's presidency in 2025 and Brazil's presidency in 2024.",
+      "explanation_hi": "2024 में ब्राजील और 2025 में दक्षिण अफ्रीका की अध्यक्षता के बाद 2026 में संयुक्त राज्य अमेरिका ने जी20 शिखर सम्मेलन की मेजबानी की।"
+    },
+    {
+      "id": "gk_2026_09_17_08",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "SSC CGL"
+      ],
+      "question_en": "What is the primary target of India's 'National Green Hydrogen Mission' for production capacity by 2030?",
+      "question_hi": "वर्ष 2030 तक 'राष्ट्रीय हरित हाइड्रोजन मिशन' के तहत भारत का प्राथमिक वार्षिक उत्पादन लक्ष्य कितना है?",
+      "options_en": [
+        "A) 2 MMT per annum",
+        "B) 5 MMT per annum",
+        "C) 10 MMT per annum",
+        "D) 15 MMT per annum"
+      ],
+      "options_hi": [
+        "A) 2 एमएमटी प्रति वर्ष",
+        "B) 5 एमएमटी प्रति वर्ष",
+        "C) 10 एमएमटी प्रति वर्ष",
+        "D) 15 एमएमटी प्रति वर्ष"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The National Green Hydrogen Mission aims to build at least 5 MMT of green hydrogen production capacity per annum by 2030.",
+      "explanation_hi": "राष्ट्रीय हरित हाइड्रोजन मिशन का उद्देश्य 2030 तक प्रति वर्ष कम से कम 5 मिलियन मीट्रिक टन (MMT) हरित हाइड्रोजन उत्पादन क्षमता विकसित करना है।"
+    },
+    {
+      "id": "gk_2026_09_17_09",
+      "category": "science",
+      "exam_tags": [
+        "UPSC Prelims",
+        "SSC CGL"
+      ],
+      "question_en": "Which deep-sea submersible is being developed under India's Samudrayaan project to explore mineral resources at 6,000 meters depth?",
+      "question_hi": "6,000 मीटर की गहराई पर खनिज संसाधनों का पता लगाने के लिए भारत के समुद्रयान प्रोजेक्ट के तहत कौन सी पनडुब्बी विकसित की जा रही है?",
+      "options_en": [
+        "A) Matsya 6000",
+        "B) Varunastra",
+        "C) Sindhurakshak",
+        "D) Sagar Nidhi"
+      ],
+      "options_hi": [
+        "A) मत्स्य 6000",
+        "B) वरुणास्त्र",
+        "C) सिंधुरक्षक",
+        "D) सागर निधि"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Matsya 6000 is an indigenous manned submersible developed by NIOT under the Deep Ocean Mission (Samudrayaan).",
+      "explanation_hi": "मत्स्य 6000 गहरे समुद्र की जैव विविधता और संसाधनों का पता लगाने के लिए डीप ओशन मिशन के तहत एनआईओटी द्वारा विकसित स्वदेशी मानवयुक्त पनडुब्बी है।"
+    },
+    {
+      "id": "gk_2026_09_17_10",
+      "category": "sports",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC",
+        "State Police"
+      ],
+      "question_en": "Where were the 37th National Games of India held?",
+      "question_hi": "भारत के 37वें राष्ट्रीय खेल किस राज्य में आयोजित किए गए थे?",
+      "options_en": [
+        "A) Gujarat",
+        "B) Goa",
+        "C) Uttarakhand",
+        "D) Kerala"
+      ],
+      "options_hi": [
+        "A) गुजरात",
+        "B) गोवा",
+        "C) उत्तराखंड",
+        "D) केरल"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The 37th National Games were hosted in Goa. The official mascot was Moga, an Indian bison.",
+      "explanation_hi": "37वें राष्ट्रीय खेल गोवा में आयोजित किए गए थे। इसका आधिकारिक शुभंकर 'मोगा' (भारतीय बाइसन) था।"
+    }
+  ],
+  "one_liners": [
+    {
+      "id": "2026-09-17_nl_01",
+      "category": "national",
+      "note_en": "Government sanctions ₹10,000 crore expansion for PM-eBus Sewa initiative across 169 cities.",
+      "note_hi": "सरकार ने 169 शहरों में हरित सार्वजनिक परिवहन को गति देने के लिए पीएम-ईबस सेवा पहल के ₹10,000 करोड़ के विस्तार को मंजूरी दी।"
+    },
+    {
+      "id": "2026-09-17_nl_02",
+      "category": "defence",
+      "note_en": "Indian Navy commissions fourth Stealth Guided Missile Destroyer INS Surat under Project 15B.",
+      "note_hi": "भारतीय नौसेना ने प्रोजेक्ट 15बी के तहत चौथे स्टेल्थ गाइडेड मिसाइल विध्वंसक पोत आईएनएस सूरत को शामिल किया।"
+    },
+    {
+      "id": "2026-09-17_nl_03",
+      "category": "economy",
+      "note_en": "FDI inflows surge 26% year-on-year led by computer software and renewable energy sectors.",
+      "note_hi": "कंप्यूटर सॉफ्टवेयर और नवीकरणीय ऊर्जा क्षेत्रों के नेतृत्व में प्रत्यक्ष विदेशी निवेश (एफडीआई) में 26% की वृद्धि दर्ज की गई।"
+    },
+    {
+      "id": "2026-09-17_nl_04",
+      "category": "science",
+      "note_en": "DRDO successfully test-fires Extended-Range Pinaka Multiple Launch Rocket System off Odisha coastline.",
+      "note_hi": "डीआरडीओ ने ओडिशा तट के पास उन्नत पिनाका मल्टीपल लॉन्च रॉकेट सिस्टम का सफल परीक्षण किया।"
+    },
+    {
+      "id": "2026-09-17_nl_05",
+      "category": "appointments",
+      "note_en": "Senior jurist takes oath as Chairman of the Law Commission of India to recommend structural judicial reforms.",
+      "note_hi": "वरिष्ठ न्यायविद ने संरचनात्मक न्यायिक सुधारों की सिफारिश के लिए भारत के विधि आयोग के अध्यक्ष के रूप में शपथ ली।"
+    },
+    {
+      "id": "2026-09-17_nl_06",
+      "category": "sports",
+      "note_en": "Indian archery team secures gold medal at Archery World Cup Finals with sensational bullseye shooting.",
+      "note_hi": "भारतीय तीरंदाजी टीम ने तीरंदाजी विश्व कप फाइनल में शानदार निशानेबाजी के साथ स्वर्ण पदक जीता।"
+    },
+    {
+      "id": "2026-09-17_nl_07",
+      "category": "international",
+      "note_en": "India and ASEAN conclude 5th Joint Trade Committee review to strengthen supply-chain resilience.",
+      "note_hi": "भारत और आसियान ने आपूर्ति-श्रृंखला और व्यापारिक सहयोग को मजबूत करने के लिए 5वीं संयुक्त व्यापार समिति समीक्षा संपन्न की।"
+    }
+  ]
+}

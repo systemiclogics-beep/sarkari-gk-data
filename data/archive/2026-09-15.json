@@ -1,0 +1,299 @@
+{
+  "date": "2026-09-15",
+  "title_en": "Daily Current Affairs & GK Dose - 2026-09-15",
+  "title_hi": "दैनिक करेंट अफेयर्स व सामान्य ज्ञान - 2026-09-15",
+  "total_questions": 10,
+  "total_one_liners": 6,
+  "questions": [
+    {
+      "id": "gk_2026_09_15_01",
+      "category": "national",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC",
+        "State Police"
+      ],
+      "question_en": "National Engineers' Day in India is celebrated every year on September 15 in honour of whom?",
+      "question_hi": "भारत में प्रतिवर्ष 15 सितंबर को राष्ट्रीय अभियंता दिवस (Engineers Day) किसके सम्मान में मनाया जाता है?",
+      "options_en": [
+        "A) Dr. A.P.J. Abdul Kalam",
+        "B) Sir M. Visvesvaraya",
+        "C) Homi J. Bhabha",
+        "D) Satish Dhawan"
+      ],
+      "options_hi": [
+        "A) डॉ. ए.पी.जे. अब्दुल कलाम",
+        "B) सर एम. विश्वेश्वरैया",
+        "C) होमी जे. भाभा",
+        "D) सतीश धवन"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "National Engineers' Day commemorates the birth anniversary of Bharat Ratna Sir Mokshagundam Visvesvaraya, a pioneer civil engineer.",
+      "explanation_hi": "राष्ट्रीय अभियंता दिवस भारत रत्न सर मोक्षगुंडम विश्वेश्वरैया की जयंती के उपलक्ष्य में मनाया जाता है।"
+    },
+    {
+      "id": "gk_2026_09_15_02",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "SSC CGL"
+      ],
+      "question_en": "Which institution releases the biennial 'Financial Stability Report' (FSR) in India?",
+      "question_hi": "भारत में द्विवार्षिक वित्तीय स्थिरता रिपोर्ट (FSR) किस संस्था द्वारा जारी की जाती है?",
+      "options_en": [
+        "A) Ministry of Finance",
+        "B) Reserve Bank of India",
+        "C) NITI Aayog",
+        "D) State Bank of India"
+      ],
+      "options_hi": [
+        "A) वित्त मंत्रालय",
+        "B) भारतीय रिजर्व बैंक",
+        "C) नीति आयोग",
+        "D) भारतीय स्टेट बैंक"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The Reserve Bank of India (RBI) publishes the Financial Stability Report twice a year.",
+      "explanation_hi": "भारतीय रिजर्व बैंक (RBI) वर्ष में दो बार वित्तीय स्थिरता रिपोर्ट प्रकाशित करता है।"
+    },
+    {
+      "id": "gk_2026_09_15_03",
+      "category": "science",
+      "exam_tags": [
+        "SSC CGL",
+        "UPSC Prelims"
+      ],
+      "question_en": "What was the designated mission life of India's Chandrayaan-3 lander Vikram and rover Pragyan?",
+      "question_hi": "चंद्रमा की सतह पर भारत के चंद्रयान-3 लैंडर विक्रम और रोवर प्रज्ञान का निर्धारित मिशन जीवन कितना था?",
+      "options_en": [
+        "A) 1 Lunar Day (~14 Earth days)",
+        "B) 1 Lunar Month (~28 Earth days)",
+        "C) 6 Months",
+        "D) 1 Year"
+      ],
+      "options_hi": [
+        "A) 1 चंद्र दिवस (~14 पृथ्वी दिवस)",
+        "B) 1 चंद्र माह (~28 पृथ्वी दिवस)",
+        "C) 6 माह",
+        "D) 1 वर्ष"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Chandrayaan-3 lander and rover were designed to operate for 1 lunar day (approx 14 Earth days) during sunlight.",
+      "explanation_hi": "चंद्रयान-3 का लैंडर और रोवर धूप के दौरान 1 चंद्र दिवस (लगभग 14 पृथ्वी दिवस) तक काम करने के लिए डिज़ाइन किए गए थे।"
+    },
+    {
+      "id": "gk_2026_09_15_04",
+      "category": "appointments",
+      "exam_tags": [
+        "SSC CGL",
+        "Banking"
+      ],
+      "question_en": "Who is the Comptroller and Auditor General (CAG) of India under Article 148?",
+      "question_hi": "अनुच्छेद 148 के तहत भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के पद पर कौन कार्यरत हैं?",
+      "options_en": [
+        "A) Girish Chandra Murmu",
+        "B) K. Sanjay Murthy",
+        "C) Rajiv Mehrishi",
+        "D) Shashi Kant Sharma"
+      ],
+      "options_hi": [
+        "A) गिरीश चंद्र मुर्मू",
+        "B) के. संजय मूर्ति",
+        "C) राजीव महर्षि",
+        "D) शशिकांत शर्मा"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "K. Sanjay Murthy took oath as the Comptroller and Auditor General of India, succeeding Girish Chandra Murmu.",
+      "explanation_hi": "के. संजय मूर्ति ने गिरीश चंद्र मुर्मू के बाद भारत के नए नियंत्रक एवं महालेखापरीक्षक (CAG) के रूप में पदभार ग्रहण किया।"
+    },
+    {
+      "id": "gk_2026_09_15_05",
+      "category": "sports",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "Neeraj Chopra won Silver medal in Javelin Throw at Paris 2024 Olympics. Who won the Gold medal?",
+      "question_hi": "पेरिस 2024 ओलंपिक में भाला फेंक में नीरज चोपड़ा ने रजत पदक जीता। स्वर्ण पदक किसने जीता?",
+      "options_en": [
+        "A) Arshad Nadeem",
+        "B) Anderson Peters",
+        "C) Jakub Vadlejch",
+        "D) Julian Weber"
+      ],
+      "options_hi": [
+        "A) अरशद नदीम",
+        "B) एंडरसन पीटर्स",
+        "C) जैकब वाडलेज्च",
+        "D) जूलियन वेबर"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Arshad Nadeem of Pakistan set an Olympic record throw of 92.97m to win Gold.",
+      "explanation_hi": "पाकिस्तान के अरशद नदीम ने 92.97 मीटर के ओलंपिक रिकॉर्ड थ्रो के साथ स्वर्ण पदक जीता।"
+    },
+    {
+      "id": "gk_2026_09_15_06",
+      "category": "defence",
+      "exam_tags": [
+        "NDA",
+        "CDS",
+        "SSC CGL"
+      ],
+      "question_en": "Project 75(I) of the Indian Navy is related to the indigenous construction of which military asset?",
+      "question_hi": "भारतीय नौसेना का प्रोजेक्ट 75(I) किस सैन्य संपत्ति के स्वदेशी निर्माण से संबंधित है?",
+      "options_en": [
+        "A) Aircraft Carriers",
+        "B) Conventional Submarines with AIP",
+        "C) Nuclear Submarines",
+        "D) Stealth Frigates"
+      ],
+      "options_hi": [
+        "A) विमानवाहक पोत",
+        "B) एआईपी से लैस पारंपरिक पनडुब्बियां",
+        "C) परमाणु पनडुब्बियां",
+        "D) स्टेल्थ फ्रिगेट"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "Project 75(India) involves construction of six advanced diesel-electric submarines equipped with AIP.",
+      "explanation_hi": "प्रोजेक्ट 75(आई) एयर-इंडिपेंडेंट प्रोपल्शन (AIP) से लैस छह उन्नत पारंपरिक पनडुब्बियों के निर्माण से संबंधित है।"
+    },
+    {
+      "id": "gk_2026_09_15_07",
+      "category": "international",
+      "exam_tags": [
+        "SSC CGL",
+        "UPSC Prelims"
+      ],
+      "question_en": "The International Court of Justice (ICJ) has its principal seat in which city?",
+      "question_hi": "अंतर्राष्ट्रीय न्यायालय (ICJ) का प्रमुख मुख्यालय किस शहर में स्थित है?",
+      "options_en": [
+        "A) Geneva",
+        "B) The Hague",
+        "C) New York",
+        "D) Vienna"
+      ],
+      "options_hi": [
+        "A) जिनेवा",
+        "B) द हेग",
+        "C) न्यूयॉर्क",
+        "D) वियना"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The International Court of Justice is situated at the Peace Palace in The Hague, Netherlands.",
+      "explanation_hi": "अंतर्राष्ट्रीय न्यायालय (ICJ) नीदरलैंड के द हेग में स्थित पीस पैलेस में है।"
+    },
+    {
+      "id": "gk_2026_09_15_08",
+      "category": "national",
+      "exam_tags": [
+        "UPSC Prelims",
+        "SSC CGL"
+      ],
+      "question_en": "Under PM Surya Ghar Muft Bijli Yojana, what is the maximum free electricity provided per month to households?",
+      "question_hi": "पीएम सूर्य घर मुफ्त बिजली योजना के तहत घरों को प्रति माह अधिकतम कितनी यूनिट मुफ्त बिजली प्रदान की जाती है?",
+      "options_en": [
+        "A) 100 Units",
+        "B) 200 Units",
+        "C) 300 Units",
+        "D) 500 Units"
+      ],
+      "options_hi": [
+        "A) 100 यूनिट",
+        "B) 200 यूनिट",
+        "C) 300 यूनिट",
+        "D) 500 यूनिट"
+      ],
+      "correct_answer": "C",
+      "explanation_en": "PM Surya Ghar Muft Bijli Yojana enables up to 300 units of free electricity per month.",
+      "explanation_hi": "पीएम सूर्य घर मुफ्त बिजली योजना प्रति माह 300 यूनिट तक मुफ्त बिजली प्रदान करती है।"
+    },
+    {
+      "id": "gk_2026_09_15_09",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "SSC CGL"
+      ],
+      "question_en": "What is the standard UPI transaction limit per day set by NPCI for peer-to-peer transfers?",
+      "question_hi": "एनपीसीआई (NPCI) द्वारा मानक पी2पी यूपीआई लेनदेन के लिए प्रति दिन अधिकतम सीमा कितनी है?",
+      "options_en": [
+        "A) ₹50,000",
+        "B) ₹1,00,000",
+        "C) ₹2,00,000",
+        "D) ₹5,00,000"
+      ],
+      "options_hi": [
+        "A) ₹50,000",
+        "B) ₹1,00,000",
+        "C) ₹2,00,000",
+        "D) ₹5,00,000"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "NPCI sets the standard daily UPI P2P transaction limit at ₹1 lakh.",
+      "explanation_hi": "एनपीसीआई ने मानक पी2पी यूपीआई लेनदेन सीमा ₹1 लाख निर्धारित की है।"
+    },
+    {
+      "id": "gk_2026_09_15_10",
+      "category": "science",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "Which body launched the world's first carbon border tax known as CBAM?",
+      "question_hi": "कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) के रूप में दुनिया का पहला कार्बन सीमा कर किस संगठन ने लागू किया?",
+      "options_en": [
+        "A) European Union",
+        "B) United States",
+        "C) United Kingdom",
+        "D) Japan"
+      ],
+      "options_hi": [
+        "A) यूरोपीय संघ",
+        "B) संयुक्त राज्य अमेरिका",
+        "C) यूनाइटेड किंगडम",
+        "D) जापान"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "The European Union introduced CBAM to price carbon emitted during production of goods entering EU.",
+      "explanation_hi": "यूरोपीय संघ (EU) ने आयातित कार्बन-सघन वस्तुओं पर सीबीएएम (CBAM) लागू किया।"
+    }
+  ],
+  "one_liners": [
+    {
+      "id": "2026-09-15_nl_01",
+      "category": "national",
+      "note_en": "National Engineers' Day celebrated nationwide honoring Sir M. Visvesvaraya.",
+      "note_hi": "सर एम. विश्वेश्वरैया के सम्मान में राष्ट्रीय अभियंता दिवस मनाया गया।"
+    },
+    {
+      "id": "2026-09-15_nl_02",
+      "category": "economy",
+      "note_en": "India's foreign exchange reserves reach new peak of $689 billion.",
+      "note_hi": "आरबीआई के अनुसार भारत का विदेशी मुद्रा भंडार $689 अरब के नए शिखर पर पहुंचा।"
+    },
+    {
+      "id": "2026-09-15_nl_03",
+      "category": "defence",
+      "note_en": "Ministry of Defence approves procurement of 31 MQ-9B drones.",
+      "note_hi": "रक्षा मंत्रालय ने 31 एमक्यू-9बी ड्रोन की खरीद को मंजूरी दी।"
+    },
+    {
+      "id": "2026-09-15_nl_04",
+      "category": "science",
+      "note_en": "ISRO and NASA complete payload testing for joint NISAR radar mission.",
+      "note_hi": "इसरो और नासा ने संयुक्त निसार (NISAR) रडार मिशन का परीक्षण पूरा किया।"
+    },
+    {
+      "id": "2026-09-15_nl_05",
+      "category": "appointments",
+      "note_en": "Government notifies appointment of new Director General of National Investigation Agency (NIA).",
+      "note_hi": "सरकार ने राष्ट्रीय जांच एजेंसी (एनआईए) के नए महानिदेशक की नियुक्ति की अधिसूचना जारी की।"
+    },
+    {
+      "id": "2026-09-15_nl_06",
+      "category": "sports",
+      "note_en": "Indian badminton prodigy wins BWF Super 500 title in straight sets.",
+      "note_hi": "भारतीय बैडमिंटन खिलाड़ी ने बीडब्ल्यूएफ सुपर 500 खिताब अपने नाम किया।"
+    }
+  ]
+}

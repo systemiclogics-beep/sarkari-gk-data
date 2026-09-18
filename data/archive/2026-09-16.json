@@ -1,0 +1,299 @@
+{
+  "date": "2026-09-16",
+  "title_en": "Daily Current Affairs & GK Dose - 2026-09-16",
+  "title_hi": "दैनिक करेंट अफेयर्स व सामान्य ज्ञान - 2026-09-16",
+  "total_questions": 10,
+  "total_one_liners": 6,
+  "questions": [
+    {
+      "id": "gk_2026_09_16_01",
+      "category": "national",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC",
+        "UPSC Prelims"
+      ],
+      "question_en": "International Ozone Day is observed globally every year on which date?",
+      "question_hi": "विश्व भर में प्रतिवर्ष अंतर्राष्ट्रीय ओजोन परत संरक्षण दिवस किस तारीख को मनाया जाता है?",
+      "options_en": [
+        "A) 14 September",
+        "B) 16 September",
+        "C) 18 September",
+        "D) 21 September"
+      ],
+      "options_hi": [
+        "A) 14 सितंबर",
+        "B) 16 सितंबर",
+        "C) 18 सितंबर",
+        "D) 21 सितंबर"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "September 16 is observed as World Ozone Day to commemorate the signing of the Montreal Protocol in 1987.",
+      "explanation_hi": "16 सितंबर को 1987 में ओजोन परत को नुकसान पहुंचाने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर हस्ताक्षर की याद में विश्व ओजोन दिवस मनाया जाता है।"
+    },
+    {
+      "id": "gk_2026_09_16_02",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "SSC CGL"
+      ],
+      "question_en": "Which public sector bank introduced the 'Green Rupee Term Deposit' to mobilize funds for climate-friendly projects?",
+      "question_hi": "किस सार्वजनिक क्षेत्र के बैंक ने पर्यावरण-अनुकूल परियोजनाओं के लिए 'ग्रीन रुपी टर्म डिपॉजिट' शुरू किया?",
+      "options_en": [
+        "A) State Bank of India",
+        "B) Punjab National Bank",
+        "C) Bank of Baroda",
+        "D) Canara Bank"
+      ],
+      "options_hi": [
+        "A) भारतीय स्टेट बैंक",
+        "B) पंजाब नेशनल बैंक",
+        "C) बैंक ऑफ बड़ौदा",
+        "D) केनरा बैंक"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "State Bank of India (SBI) launched the SBI Green Rupee Term Deposit to finance green energy and environmental sustainability initiatives.",
+      "explanation_hi": "भारतीय स्टेट बैंक (SBI) ने हरित ऊर्जा और पर्यावरणीय स्थिरता की पहलों को वित्तपोषित करने के लिए ग्रीन रुपी टर्म डिपॉजिट शुरू किया।"
+    },
+    {
+      "id": "gk_2026_09_16_03",
+      "category": "science",
+      "exam_tags": [
+        "SSC CGL",
+        "UPSC Prelims"
+      ],
+      "question_en": "Aditya-L1, India's first solar space observatory, is positioned at which Lagrange Point?",
+      "question_hi": "भारत की पहली सौर अंतरिक्ष वेधशाला, आदित्य-L1, किस लैग्रेंज बिंदु पर स्थित है?",
+      "options_en": [
+        "A) L1",
+        "B) L2",
+        "C) L4",
+        "D) L5"
+      ],
+      "options_hi": [
+        "A) L1",
+        "B) L2",
+        "C) L4",
+        "D) L5"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Aditya-L1 is placed in a halo orbit around Lagrange Point 1 (L1), about 1.5 million km from Earth.",
+      "explanation_hi": "आदित्य-L1 पृथ्वी से लगभग 1.5 मिलियन किमी दूर लैग्रेंज पॉइंट 1 (L1) के चारों ओर प्रभामंडल कक्षा में स्थित है।"
+    },
+    {
+      "id": "gk_2026_09_16_04",
+      "category": "appointments",
+      "exam_tags": [
+        "SSC CGL",
+        "Banking"
+      ],
+      "question_en": "Who has been appointed as the Governor of the Reserve Bank of India (RBI)?",
+      "question_hi": "वर्तमान में भारतीय रिजर्व बैंक (RBI) के गवर्नर कौन हैं?",
+      "options_en": [
+        "A) Shaktikanta Das",
+        "B) Urjit Patel",
+        "C) Raghuram Rajan",
+        "D) Viral Acharya"
+      ],
+      "options_hi": [
+        "A) शक्तिकांत दास",
+        "B) उर्जित पटेल",
+        "C) रघुराम राजन",
+        "D) विरल आचार्य"
+      ],
+      "correct_answer": "A",
+      "explanation_en": "Shaktikanta Das serves as the 25th Governor of the Reserve Bank of India.",
+      "explanation_hi": "शक्तिकांत दास भारतीय रिजर्व बैंक के 25वें गवर्नर हैं।"
+    },
+    {
+      "id": "gk_2026_09_16_05",
+      "category": "sports",
+      "exam_tags": [
+        "SSC CGL",
+        "State Police"
+      ],
+      "question_en": "Which country won the ICC Men's T20 World Cup title held in the USA and West Indies?",
+      "question_hi": "यूएसए और वेस्टइंडीज में आयोजित आईसीसी पुरुष टी20 विश्व कप का खिताब किस देश ने जीता?",
+      "options_en": [
+        "A) South Africa",
+        "B) India",
+        "C) Australia",
+        "D) England"
+      ],
+      "options_hi": [
+        "A) दक्षिण अफ्रीका",
+        "B) भारत",
+        "C) ऑस्ट्रेलिया",
+        "D) इंग्लैंड"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "India won the ICC Men's T20 World Cup in Barbados by defeating South Africa by 7 runs in a thrilling final.",
+      "explanation_hi": "भारत ने बारबाडोस में रोमांचक फाइनल में दक्षिण अफ्रीका को 7 रनों से हराकर आईसीसी पुरुष टी20 विश्व कप जीता।"
+    },
+    {
+      "id": "gk_2026_09_16_06",
+      "category": "defence",
+      "exam_tags": [
+        "NDA",
+        "CDS",
+        "SSC CGL"
+      ],
+      "question_en": "What is the name of the supersonic cruise missile joint venture between India and Russia?",
+      "question_hi": "भारत और रूस के बीच संयुक्त उद्यम के तहत विकसित सुपरसोनिक क्रूज मिसाइल का क्या नाम है?",
+      "options_en": [
+        "A) Agni-V",
+        "B) BrahMos",
+        "C) Prithvi-II",
+        "D) Akash-NG"
+      ],
+      "options_hi": [
+        "A) अग्नि-V",
+        "B) ब्रह्मोस",
+        "C) पृथ्वी-II",
+        "D) आकाश-एनजी"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "BrahMos is a supersonic cruise missile developed jointly by DRDO of India and NPO Mashinostroyeniya of Russia.",
+      "explanation_hi": "ब्रह्मोस भारत के डीआरडीओ और रूस के एनपीओ मशीनोस्ट्रोयेनिया द्वारा संयुक्त रूप से विकसित एक सुपरसोनिक क्रूज मिसाइल है।"
+    },
+    {
+      "id": "gk_2026_09_16_07",
+      "category": "national",
+      "exam_tags": [
+        "UPSC Prelims",
+        "SSC CGL"
+      ],
+      "question_en": "The landmark 'Nari Shakti Vandan Adhiniyam' provides what percentage of reservation for women in Lok Sabha?",
+      "question_hi": "ऐतिहासिक नारी शक्ति वंदन अधिनियम लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए कितने प्रतिशत आरक्षण का प्रावधान करता है?",
+      "options_en": [
+        "A) 25%",
+        "B) 33%",
+        "C) 50%",
+        "D) 30%"
+      ],
+      "options_hi": [
+        "A) 25%",
+        "B) 33%",
+        "C) 50%",
+        "D) 30%"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The 106th Constitutional Amendment Act reserves 33% of seats for women in Lok Sabha and State Legislative Assemblies.",
+      "explanation_hi": "106वें संविधान संशोधन अधिनियम के तहत लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए 33% सीटें आरक्षित की गई हैं।"
+    },
+    {
+      "id": "gk_2026_09_16_08",
+      "category": "international",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "Which country recently became the 32nd member of the NATO defense alliance?",
+      "question_hi": "हाल ही में कौन सा देश नाटो (NATO) रक्षा गठबंधन का 32वां सदस्य बना?",
+      "options_en": [
+        "A) Finland",
+        "B) Sweden",
+        "C) Ukraine",
+        "D) Georgia"
+      ],
+      "options_hi": [
+        "A) फिनलैंड",
+        "B) स्वीडन",
+        "C) यूक्रेन",
+        "D) जॉर्जिया"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "Sweden formally became the 32nd member of NATO after Finland joined in 2023.",
+      "explanation_hi": "2023 में फिनलैंड के शामिल होने के बाद स्वीडन औपचारिक रूप से नाटो का 32वां सदस्य देश बन गया।"
+    },
+    {
+      "id": "gk_2026_09_16_09",
+      "category": "economy",
+      "exam_tags": [
+        "Banking",
+        "UPSC Prelims"
+      ],
+      "question_en": "In India, the Fiscal Responsibility and Budget Management (FRBM) Act was enacted in which year?",
+      "question_hi": "भारत में राजकोषीय उत्तरदायित्व और बजट प्रबंधन (FRBM) अधिनियम किस वर्ष पारित किया गया था?",
+      "options_en": [
+        "A) 1998",
+        "B) 2003",
+        "C) 2008",
+        "D) 2014"
+      ],
+      "options_hi": [
+        "A) 1998",
+        "B) 2003",
+        "C) 2008",
+        "D) 2014"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "The FRBM Act was enacted in 2003 to ensure fiscal discipline and balance fiscal deficits.",
+      "explanation_hi": "राजकोषीय अनुशासन सुनिश्चित करने और घाटे को संतुलित करने के लिए 2003 में एफआरबीएम अधिनियम लागू किया गया था।"
+    },
+    {
+      "id": "gk_2026_09_16_10",
+      "category": "science",
+      "exam_tags": [
+        "SSC CGL",
+        "Railway NTPC"
+      ],
+      "question_en": "What is the primary scientific purpose of India's XPoSat mission?",
+      "question_hi": "भारत के एक्स-रे पोलारिमीटर सैटेलाइट (XPoSat) मिशन का प्राथमिक वैज्ञानिक उद्देश्य क्या है?",
+      "options_en": [
+        "A) Solar flare imaging",
+        "B) Polarisation of cosmic X-rays",
+        "C) Lunar water mapping",
+        "D) Deep space communication"
+      ],
+      "options_hi": [
+        "A) सौर ज्वाला इमेजिंग",
+        "B) ब्रह्मांडीय एक्स-रे का ध्रुवीकरण अध्ययन",
+        "C) चंद्र जल मानचित्रण",
+        "D) डीप स्पेस संचार"
+      ],
+      "correct_answer": "B",
+      "explanation_en": "XPoSat is India's dedicated scientific satellite to study polarisation of intense celestial X-ray sources like black holes.",
+      "explanation_hi": "एक्सपोसैट ब्लैक होल और न्यूट्रॉन सितारों जैसे खगोलीय स्रोतों से निकलने वाले तीव्र एक्स-रे के ध्रुवीकरण का अध्ययन करने वाला भारत का पहला उपग्रह है।"
+    }
+  ],
+  "one_liners": [
+    {
+      "id": "2026-09-16_nl_01",
+      "category": "national",
+      "note_en": "World Ozone Day observed globally reinforcing Montreal Protocol contributions towards advancing climate action.",
+      "note_hi": "विश्व ओजोन दिवस वैश्विक स्तर पर जलवायु कार्रवाई को आगे बढ़ाने में मॉन्ट्रियल प्रोटोकॉल की भूमिका को उजागर करते हुए मनाया गया।"
+    },
+    {
+      "id": "2026-09-16_nl_02",
+      "category": "economy",
+      "note_en": "Wholesale Price Index (WPI) inflation eases to 1.31% driven by moderating food and fuel prices.",
+      "note_hi": "खाद्य और ईंधन की कीमतों में नरमी के कारण थोक मूल्य सूचकांक (WPI) आधारित मुद्रास्फीति घटकर 1.31% पर आ गई।"
+    },
+    {
+      "id": "2026-09-16_nl_03",
+      "category": "defence",
+      "note_en": "Indian Air Force demonstrates combat agility in multi-nation air exercise Tarang Shakti.",
+      "note_hi": "भारतीय वायुसेना ने जोधपुर एयरबेस पर बहुराष्ट्रीय हवाई अभ्यास तरंग शक्ति में अपनी युद्धक क्षमता का प्रदर्शन किया।"
+    },
+    {
+      "id": "2026-09-16_nl_04",
+      "category": "science",
+      "note_en": "IIT Madras researchers patent indigenous high-temperature thermal battery for renewable microgrids.",
+      "note_hi": "आईआईटी मद्रास के शोधकर्ताओं ने नवीकरणीय माइक्रोग्रिड के लिए स्वदेशी उच्च-तापमान थर्मल बैटरी का पेटेंट कराया।"
+    },
+    {
+      "id": "2026-09-16_nl_05",
+      "category": "appointments",
+      "note_en": "Cabinet approves appointment of new Chairperson of the Central Board of Direct Taxes (CBDT).",
+      "note_hi": "केंद्रीय मंत्रिमंडल ने केंद्रीय प्रत्यक्ष कर बोर्ड (सीबीडीटी) के नए अध्यक्ष की नियुक्ति को मंजूरी दी।"
+    },
+    {
+      "id": "2026-09-16_nl_06",
+      "category": "sports",
+      "note_en": "Indian shooters bag three medals at ISSF Shooting World Cup stage in Munich.",
+      "note_hi": "म्यूनिख में आयोजित आईएसएसएफ निशानेबाजी विश्व कप में भारतीय निशानेबाजों ने तीन पदक अपने नाम किए।"
+    }
+  ]
+}
