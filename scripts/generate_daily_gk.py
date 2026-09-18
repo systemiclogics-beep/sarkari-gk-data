@@ -166,9 +166,17 @@ def main():
     }}
     
     REQUIREMENTS:
-    1. Exactly 10 questions and 10 one-liners.
+    1. Exactly 10 questions and at least 10-12 one-liners.
     2. Authentic exam Hindi (standard vocabulary used in SSC/UPSC, avoid broken machine translation).
-    3. Diverse categories (Defence, National, Appointments, Economy, Science, Sports, Summits).
+    3. MANDATORY CATEGORY DISTRIBUTION:
+       - You MUST include at least 1-2 items in EACH of the following categories:
+         * 'economy' (RBI rates, GST revenue, Banking, Budget, GDP, Inflation, SEBI)
+         * 'sports' (Tournaments, Medals, Chess, Cricket, Tennis, Athletics)
+         * 'appointments' (New chiefs, ambassadors, chairpersons, judiciary, commissions)
+         * 'science' (ISRO, DRDO, Space, Biotech, Defense technology, AI)
+         * 'national' (Central schemes, cabinet decisions, acts, parliament)
+         * 'defence' or 'international' (Joint military exercises, summits, bilateral treaties)
+       - Do NOT mark everything as 'national'. If the day's PIB releases lack sports or banking, supplement with the day's top competitive exam current affairs in those specific fields.
     4. Output ONLY valid raw JSON.
     """
     
