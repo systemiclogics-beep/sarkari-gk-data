@@ -193,11 +193,16 @@ today_data = {
   ]
 }
 
-os.makedirs('sarkari_gk_backend/data/archive', exist_ok=True)
-with open('sarkari_gk_backend/data/today_gk.json', 'w', encoding='utf-8') as f:
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.dirname(script_dir)
+data_dir = os.path.join(repo_root, "data")
+archive_dir = os.path.join(data_dir, "archive")
+os.makedirs(archive_dir, exist_ok=True)
+
+with open(os.path.join(data_dir, 'today_gk.json'), 'w', encoding='utf-8') as f:
     json.dump(today_data, f, ensure_ascii=False, indent=2)
 
-with open('sarkari_gk_backend/data/archive/2026-09-18.json', 'w', encoding='utf-8') as f:
+with open(os.path.join(archive_dir, '2026-09-18.json'), 'w', encoding='utf-8') as f:
     json.dump(today_data, f, ensure_ascii=False, indent=2)
 
 print('SUCCESS')

@@ -178,17 +178,22 @@ def main():
     except Exception as e:
         print(f'[WARN] Gemini generation failed ({e}), falling back to seed generator...', file=sys.stderr)
         import subprocess
-        subprocess.run([sys.executable, os.path.join('sarkari_gk_backend', 'scripts', 'seed_data.py')])
+        subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'seed_data.py')])
         return
     
-    # Save today_gk.json
-    today_path = os.path.join("sarkari_gk_backend", "data", "today_gk.json")
+    # Save today_gk.json relative to repository root
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    data_dir = os.path.join(repo_root, "data")
+    os.makedirs(data_dir, exist_ok=True)
+
+    today_path = os.path.join(data_dir, "today_gk.json")
     with open(today_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     print(f"[SUCCESS] Updated {today_path}")
     
     # Archive dated copy
-    archive_dir = os.path.join("sarkari_gk_backend", "data", "archive")
+    archive_dir = os.path.join(data_dir, "archive")
     os.makedirs(archive_dir, exist_ok=True)
     archive_path = os.path.join(archive_dir, f"{today_str}.json")
     with open(archive_path, "w", encoding="utf-8") as f:
