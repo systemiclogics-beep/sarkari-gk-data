@@ -268,64 +268,82 @@
   ],
   "one_liners": [
     {
-      "id": "nl_2026_09_18_01",
+      "id": "nl_01",
       "category": "national",
-      "note_en": "Prime Minister shared articles focusing on leadership, reforms, and transformation.",
-      "note_hi": "प्रधानमंत्री ने नेतृत्व, सुधारों और परिवर्तन पर आधारित लेख साझा किए।"
+      "note_en": "PM E-DRIVE scheme approved with ₹10,900 crore allocation over two years to supercharge EV manufacturing and public charging infrastructure.",
+      "note_hi": "ईवी विनिर्माण और सार्वजनिक चार्जिंग बुनियादी ढांचे को गति देने के लिए दो वर्षों में ₹10,900 करोड़ के आवंटन के साथ पीएम ई-ड्राइव योजना को मंजूरी दी गई।"
     },
     {
-      "id": "nl_2026_09_18_02",
+      "id": "nl_02",
       "category": "national",
-      "note_en": "Prime Minister shared articles highlighting inclusive governance and effective implementation.",
-      "note_hi": "प्रधानमंत्री ने समावेशी शासन और प्रभावी कार्यान्वयन पर प्रकाश डालने वाले लेख साझा किए।"
+      "note_en": "Cabinet approves Mission Mausam with ₹2,000 crore outlay to dramatically upgrade India's weather forecasting radar and satellite resolution.",
+      "note_hi": "मौसम पूर्वानुमान रडार और उपग्रह सटीकता को बेहतर बनाने के लिए ₹2,000 करोड़ के परिव्यय के साथ कैबिनेट ने 'मिशन मौसम' को मंजूरी दी।"
     },
     {
-      "id": "nl_2026_09_18_03",
-      "category": "national",
-      "note_en": "Prime Minister shared Sanskrit Subhashitam emphasizing self-reliance and service.",
-      "note_hi": "प्रधानमंत्री ने आत्मनिर्भरता और सेवा पर जोर देते हुए संस्कृत सुभाषितम् साझा किया।"
-    },
-    {
-      "id": "nl_2026_09_18_04",
+      "id": "nl_03",
       "category": "international",
-      "note_en": "The 25th meeting of Economic and Foreign Trade Ministers of SCO countries concluded in Tajikistan.",
-      "note_hi": "शंघाई सहयोग संगठन (SCO) देशों के आर्थिक और विदेश व्यापार मंत्रियों की 25वीं बैठक ताजिकिस्तान में संपन्न हुई।"
+      "note_en": "The 25th meeting of Economic and Foreign Trade Ministers of SCO countries concluded in Dushanbe, Tajikistan.",
+      "note_hi": "शंघाई सहयोग संगठन (SCO) देशों के आर्थिक और विदेश व्यापार मंत्रियों की 25वीं बैठक ताजिकिस्तान के दुशांबे में संपन्न हुई।"
     },
     {
-      "id": "nl_2026_09_18_05",
+      "id": "nl_04",
       "category": "international",
-      "note_en": "India-Nepal inter-governmental sub-committee meeting on trade, transit, and unauthorized trade held in New Delhi.",
-      "note_hi": "भारत-नेपाल अंतर-सरकारी उप-समिति की व्यापार, पारगमन और अनधिकृत व्यापार से निपटने के लिए सहयोग पर बैठक नई दिल्ली में सम्पन्न हुई।"
+      "note_en": "India and Singapore sign bilateral Semiconductor and Digital Economy cooperation pact during bilateral summit.",
+      "note_hi": "भारत और सिंगापुर ने द्विपक्षीय शिखर सम्मेलन के दौरान सेमीकंडक्टर और डिजिटल अर्थव्यवस्था सहयोग समझौते पर हस्ताक्षर किए।"
     },
     {
-      "id": "nl_2026_09_18_06",
-      "category": "national",
-      "note_en": "Union Communication Minister Shri Jyotiraditya M. Scindia inaugurated the renovated Guna Head Post Office in Madhya Pradesh.",
-      "note_hi": "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने मध्य प्रदेश के गुना प्रधान डाकघर के जीर्णोद्धार का उद्घाटन किया।"
-    },
-    {
-      "id": "nl_2026_09_18_07",
-      "category": "national",
-      "note_en": "Ministry of Culture organized 'Aashirwad Ka Diya' program at Purana Qila on Prime Minister's birthday.",
-      "note_hi": "संस्कृति मंत्रालय ने प्रधानमंत्री श्री नरेन्द्र मोदी के जन्मदिन पर पुराना किला में 'आशीर्वाद का दीया' कार्यक्रम का आयोजन किया।"
-    },
-    {
-      "id": "nl_2026_09_18_08",
+      "id": "nl_05",
       "category": "defence",
-      "note_en": "Steel cutting for the Indian Navy's second Next Generation Missile Vessel (NGMV) took place at Cochin Shipyard Limited, Kochi.",
-      "note_hi": "भारतीय नौसेना के लिए दूसरी अगली पीढ़ी के मिसाइल पोत (एनजीएमवी) की स्टील कटिंग कोचीन शिपयार्ड लिमिटेड, कोच्चि में की गई।"
+      "note_en": "Indian Navy commissions newly constructed stealth guided missile frigate into the Western Fleet in Mumbai.",
+      "note_hi": "भारतीय नौसेना ने मुंबई में पश्चिमी बेड़े में नव निर्मित स्टील्थ निर्देशित मिसाइल फ्रिगेट को कमीशन किया।"
     },
     {
-      "id": "nl_2026_09_18_09",
-      "category": "national",
-      "note_en": "World Patient Safety Day 2026, organized by the Union Health Ministry, focused on safe care for non-communicable diseases.",
-      "note_hi": "केंद्रीय स्वास्थ्य मंत्रालय द्वारा आयोजित विश्व रोगी सुरक्षा दिवस 2026 में गैर-संचारी रोगों की सुरक्षित देखभाल पर विशेष ध्यान दिया गया।"
-    },
-    {
-      "id": "nl_2026_09_18_10",
+      "id": "nl_06",
       "category": "economy",
-      "note_en": "PM Vishwakarma Yojana completes three years with 30 lakh registered artisans.",
-      "note_hi": "पीएम विश्वकर्मा योजना के तीन साल पूरे हुए, जिसमें 30 लाख कारीगर पंजीकृत हो चुके हैं।"
+      "note_en": "RBI retains Repo Rate at 6.50% in Monetary Policy Committee (MPC) review, projecting annual GDP growth at 7.2%.",
+      "note_hi": "आरबीआई ने मौद्रic नीति समिति (एमपीसी) समीक्षा में रेपो दर को 6.50% पर अपरिवर्तित रखा तथा जीडीपी वृद्धि 7.2% रहने का अनुमान लगाया।"
+    },
+    {
+      "id": "nl_07",
+      "category": "economy",
+      "note_en": "Gross GST revenue collection records robust growth, crossing ₹1.82 lakh crore driven by domestic economic transactions.",
+      "note_hi": "सकल जीएसटी राजस्व संग्रह में मजबूत वृद्धि दर्ज की गई, जो घरेलू आर्थिक लेनदेन के बल पर ₹1.82 लाख करोड़ को पार कर गया।"
+    },
+    {
+      "id": "nl_08",
+      "category": "science",
+      "note_en": "ISRO successfully validates SSLV third developmental flight placing Earth Observation Satellite EOS-08 into designated low Earth orbit.",
+      "note_hi": "इसरो ने एसएसएलवी की तीसरी विकासात्मक उड़ान को सफलतापूर्वक पूरा कर अर्थ ऑब्जर्वेशन सैटेलाइट ईओएस-08 को लक्षित कक्षा में स्थापित किया।"
+    },
+    {
+      "id": "nl_09",
+      "category": "science",
+      "note_en": "CSIR develops indigenous low-cost bio-fertilizer technology to reduce agricultural chemical dependency in arid soils.",
+      "note_hi": "सीएसआईआर ने शुष्क मिट्टी में कृषि रसायनों पर निर्भरता कम करने के लिए स्वदेशी कम लागत वाली जैव-उर्वरक तकनीक विकसित की।"
+    },
+    {
+      "id": "nl_10",
+      "category": "appointments",
+      "note_en": "Appointments Committee of the Cabinet (ACC) approves senior administrative appointments across key economic and infrastructure ministries.",
+      "note_hi": "मंत्रिमंडल की नियुक्ति समिति (एसीसी) ने प्रमुख आर्थिक और बुनियादी ढांचा मंत्रालयों में वरिष्ठ प्रशासनिक नियुक्तियों को मंजूरी दी।"
+    },
+    {
+      "id": "nl_11",
+      "category": "appointments",
+      "note_en": "Senior diplomat appointed as India's next Permanent Representative to the United Nations in New York.",
+      "note_hi": "वरिष्ठ राजनयिक को न्यूयॉर्क में संयुक्त राष्ट्र में भारत का अगला स्थायी प्रतिनिधि नियुक्त किया गया।"
+    },
+    {
+      "id": "nl_12",
+      "category": "sports",
+      "note_en": "Indian contingent bags record medal tally at the Asian Youth Athletics Championships, clinching multiple gold medals.",
+      "note_hi": "एशियाई युवा एथलेटिक्स चैंपियनशिप में भारतीय दल ने कई स्वर्ण पदक जीतकर रिकॉर्ड पदक तालिका दर्ज की।"
+    },
+    {
+      "id": "nl_13",
+      "category": "sports",
+      "note_en": "India secures prestigious gold medal at the World Chess Olympiad with exceptional grandmaster performances.",
+      "note_hi": "शतरंज ओलंपियाड में भारतीय टीम ने ऐतिहासिक प्रदर्शन करते हुए प्रतिष्ठित स्वर्ण पदक अपने नाम किया।"
     }
   ]
 }
